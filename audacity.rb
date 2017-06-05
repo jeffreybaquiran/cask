@@ -1,4 +1,4 @@
-  url 'https://www.fosshub.com/Audacity.html/audacity-macos-2.1.3.dmg'
+  url 'https://drive.google.com/uc?id=0B_TzDxaGDaKrYi1YVC1NRkhGd0E'
   name 'Audacity'
  
   app 'Audacity.app'
