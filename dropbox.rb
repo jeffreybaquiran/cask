@@ -3,6 +3,6 @@ cask 'dropbox' do
   
   url 'https://www.dropbox.com/downloading?build=#{version}&plat=mac&type=full'
   name 'Dropbox'
-  filename 'Dropbox 28.4.14.dmg'
+  filename 'Dropbox #{version}.dmg'
  
   app 'Dropbox.app'
