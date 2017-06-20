@@ -3,5 +3,5 @@ cask 'adobe-shockwave' do
 
   dmg_file 'Shockwave_12.2.5.195.dmg'
   name 'Adobe Shockwave'
-  googledriveid '0B_TzDxaGDaKrd21HNnhoSHQ1ZW8'
-  pkg 'Shockwave_Installer_Full.pkg'
+  googledriveid '0B_TzDxaGDaKrblZ6WU9hS3l4SzA'
+  pkg 'Shockwave_12.2.5.195.pkg'
