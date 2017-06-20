@@ -5,3 +5,4 @@ cask 'adobe-shockwave' do
   name 'Adobe Shockwave'
   googledriveid '0B_TzDxaGDaKrYnZ5S1QzOVRZNk0'
   pkg 'Shockwave_Installer_Full.pkg'
+  x
